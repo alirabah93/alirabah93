@@ -1,15 +1,8 @@
 ## Hi there 👋
-### Welcome to my GitHub Account
 
-You can find the following in my repositories:
-1. Stacks assignments
-2. Algorithms
-3. PalRent: underdeveloping website for car renting
-4. FroFrame: underdeveloping website for creating a basic wireframe and generating front-end codes that can be utilized.
+# Welcome to my GitHub Profile 👨‍💻
 
-# My GitHub Profile 👨‍💻
-
-Welcome to my GitHub profile! Here you will find all the completed assignments and projects I have been working on to improve my skills as a software developer. 
+Here you will find all the completed assignments and projects I have been working on to improve my skills as a software developer. 
 
 ## Web Fundamentals 🌐
 In this section, you will find completed assignments related to the fundamental concepts of web development. This includes HTML, CSS, and JavaScript. 
