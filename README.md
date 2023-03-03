@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# Welcome to my GitHub Profile 👨‍💻
+## Welcome to my GitHub Profile 👨‍💻
 
 Here you will find all the completed assignments and projects I have been working on to improve my skills as a software developer. 
 
