@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+### Welcome to my GitHub Account
+
+You can find the following in my repositories:
+1. Stacks assignments
+2. Algorithms
+3. PalRent: underdeveloping website for car renting
+4. FroFrame: underdeveloping website for creating a basic wireframe and generating front-end codes that can be utilized.
 
 <!--
 **alirabah93/alirabah93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
